@@ -61,11 +61,11 @@
 
 <h3>Contato</h3>
 
-Tel / Whatsapp
+Tel / Whatsapp<br>
 **+55 (11) 967 033 709**
 
-Telegram
+Telegram<br>
 **@brunocmoraes**
 
-E-mail profissional
+E-mail profissional<br>
 **brunocmoraes@proton.me**
