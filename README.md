@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
 </div>
 
-###
+---
 
 <div align="left">
   <a href="https://wa.me/send/?phone=5511967033709" target="_blank">
