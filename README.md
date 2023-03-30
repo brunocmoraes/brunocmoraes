@@ -63,7 +63,9 @@
 
 Tel / Whatsapp
 **+55 (11) 967 033 709**
+
 Telegram
 **@brunocmoraes**
+
 E-mail profissional
 **brunocmoraes@proton.me**
