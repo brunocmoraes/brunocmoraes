@@ -4,7 +4,7 @@
 
 <p align="left">✨ Mais  de 12 anos com experiência em desenvolvimento de aplicações para internet.<br><br>📚 Hoje com uma visão mais profunda sobre negócios e empreendedorismo.<br><br>🎯 Foco atual em marketing digital e construção de todo ecosistema integrado que gerem resultados.<br><br>🎲 Sempre em busca de novos desafios e oportunidades de aprendizado.</p>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -45,6 +45,8 @@
 
 ---
 
+<img align="right" height="150" src="https://brunomoraes.netlify.app/assets/desenvolvedor-fullstack.e96f27f9.webp"  />
+
 <div align="left">
   <a href="https://wa.me/send/?phone=5511967033709" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
@@ -56,10 +58,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<img align="right" height="150" src="https://brunomoraes.netlify.app/assets/desenvolvedor-fullstack.e96f27f9.webp"  />
-
-###
 
 <h3>Contato</h3>
 
