@@ -6,12 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/brunocmoraes/brunocmoraes/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -63,8 +57,15 @@
   </a>
 </div>
 
-###
-
 <img align="right" height="150" src="https://brunomoraes.netlify.app/assets/desenvolvedor-fullstack.e96f27f9.webp"  />
 
 ###
+
+<h3>Contato</h3>
+
+Tel / Whatsapp
+**+55 (11) 967 033 709**
+Telegram
+**@brunocmoraes**
+E-mail profissional
+**brunocmoraes@proton.me**
