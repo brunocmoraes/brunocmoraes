@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Mais  de 12 anos com experiência em desenvolvimento de aplicações para internet.<br><br>📚 Hoje com uma visão mais profunda sobre negócios e empreendedorismo.<br><br>🎯 Foco atual em Marketing digital, construção de todo ecosistema integrado e automatizado pra otimizar de forma inteligente a forma como pequenas e médias empresas se posicionam no mercado online.<br><br>🎲 Sempre em busca de novos desafios e oportunidades de aprendizado.</p>
+<p align="left">✨ Mais  de 12 anos com experiência em desenvolvimento de aplicações para internet.<br><br>📚 Hoje com uma visão mais profunda sobre negócios e empreendedorismo.<br><br>🎯 Foco atual em Marketing digital, construção de todo ecosistema integrado e automatizado pra otimizar de forma inteligente a maneira como pequenas e médias empresas se posicionam no mercado online.<br><br>🎲 Sempre em busca de novos desafios e oportunidades de aprendizado.</p>
 
 ---
 
